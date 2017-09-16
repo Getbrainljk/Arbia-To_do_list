@@ -1,5 +1,1 @@
-/home/arbia_n/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/arbia_n/Arbia-To_do_list/Arbia-To_do_list/bin/Debug/Arbia-To_do_list.pdb
-/home/arbia_n/Arbia-To_do_list/Arbia-To_do_list/bin/Debug/Arbia-To_do_list.exe
-/home/arbia_n/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/Arbia-To_do_list.exe
-/home/arbia_n/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/Arbia-To_do_list.pdb
+/home/arbia_n/Projets/Csh/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs

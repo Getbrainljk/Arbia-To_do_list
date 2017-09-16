@@ -4,3 +4,5 @@
 /home/arbia_n/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/Arbia-To_do_list.csproj.CoreCompileInputs.cache
 /home/arbia_n/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/Arbia-To_do_list.exe
 /home/arbia_n/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/Arbia-To_do_list.pdb
+/home/arbia_n/Projets/Csh/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/Arbia-To_do_list.csprojResolveAssemblyReference.cache
+/home/arbia_n/Projets/Csh/Arbia-To_do_list/Arbia-To_do_list/obj/x86/Debug/Arbia-To_do_list.csproj.CoreCompileInputs.cache

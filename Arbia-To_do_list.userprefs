@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Arbia-To_do_list/Arbia-To_do_list.csproj">
   <AuthorInfo Name="arbia_n" Email="nadir.arbia@gmail.com" Copyright="arbia_n" Company="" Trademark="" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Arbia-To_do_list/App.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arbia-To_do_list/Task.cs">
     <Files>
-      <File FileName="Arbia-To_do_list/App.cs" Line="6" Column="19" />
-      <File FileName="Arbia-To_do_list/Task.cs" Line="3" Column="19" />
+      <File FileName="Arbia-To_do_list/App.cs" Line="16" Column="13" />
+      <File FileName="Arbia-To_do_list/Task.cs" Line="30" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
